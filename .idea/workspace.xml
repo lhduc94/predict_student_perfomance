@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee1ea5b7-78c6-4d60-939c-1e8b89622167" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/four.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/predict-student-performance-from-game-play.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/predict-student-performance-from-game-play.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/three.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/three.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="ee1ea5b7-78c6-4d60-939c-1e8b89622167" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678348216392</updated>
-      <workItem from="1678348217561" duration="5586000" />
+      <workItem from="1678348217561" duration="5890000" />
     </task>
     <servers />
   </component>
