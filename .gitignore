@@ -1,3 +1,4 @@
 inputs
 notebooks/*.json
 notebooks/*.pkl
+.ipynb_checkpoints
